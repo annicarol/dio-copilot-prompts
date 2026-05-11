@@ -1,110 +1,69 @@
-<!--START_SECTION:header-->
-<div align="center">
-  <p align="center">
-    <img 
-      alt="DIO Education" 
-      src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
-      width="100px" 
-    />
-    <h1>Projeto IA Mentor de Carreira</h1>
-  </p>
-</div>
-<!--END_SECTION:header-->
+#Projeto IA Mentor de Carreira
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=DIO&message=Education&color=E94D5F&labelColor=202024" alt="DIO Project" />
-  <a href="NIVEL"><img  src="https://img.shields.io/static/v1?label=Nivel&message=Basico&color=E94D5F&labelColor=202024" alt="Nivel"></a>
+# 📚 Plano de Estudos Personalizado — Engenheiro de Inteligência Artificial
 
-</p>
+Olá! Recebi suas informações do entrevistador.  
 
-<!--  -->
-<table align="center">
-<thead>
-  <tr>
-    <td>
-        <p align="center">Expert</p>
-        <a href="https://github.com/felipeAguiarCode">
-        <img src="https://avatars0.githubusercontent.com/u/37452836?v=3&s=115" alt="@felipeAguiarCode"><br>
-      </a>
-    </td>
-    <td colspan="3">
-    <p>🎉 10y+ em sistemas comerciais com .NET C# e NODE.JS.
-      <br/>
-     🌟 Desenvolvedor fullstack - Coordenador de educação na DIO
-      <br/>
-    👨‍💻 Foco em front-ends SPA com React, Angular e Vue.js
-    </p>
-      <a 
-      href="https://www.linkedin.com/in/felipe-me/" 
-      align="center">
-           <img 
-            align="center" 
-            alt="Material de Apoio" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            >
-        </a>
-        <a href="https://www.instagram.com/felipeaguiar.exe/" target="_blank">
-            <img 
-              align="center" 
-              alt="Instagram" 
-              src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-            >
-        </a>
-    </td>
-  </tr>
-</thead>
-</table>
-<!--  -->
+Vejo que você escolheu **Engenheiro de Inteligência Artificial** e tem **1 hora por semana** para estudar. Perfeito!  
 
-<br/>
-<br/>
+Vou montar agora seu plano completo personalizado:  
 
-## 💻 Sobre o Projeto
+---
 
-Vamos construir uma página spa, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer que faz xxx e yyy
+## 🧩 VISÃO DO DIA A DIA  
 
-## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
+Como é o trabalho de um(a) Engenheiro de Inteligência Artificial:  
+- Desenvolver e treinar modelos de machine learning  
+- Implementar algoritmos de deep learning em aplicações reais  
+- Trabalhar com grandes volumes de dados para extrair padrões  
+- Integrar soluções de IA em sistemas web ou back-end  
+- Colaborar com equipes de produto e engenharia para escalar soluções  
 
-Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio nas seguintes áreas:
+---
 
-- [habilidades ou conhecimentos prévios necessários] | [Básico, Intermediário, Avançado ou Especialista]
+## 🧠 MAPA DE SKILLS  
 
-- _Exemplo_:
+**CORE SKILLS (essenciais):**  
+- Programação em Python  
+- Fundamentos de Machine Learning  
+- Redes Neurais e Deep Learning  
 
-  - Java | Básico
-  - Gerenciamento de pacotes | Básico
-  -
+**NICE-TO-HAVE (complementares):**  
+- Engenharia de Dados  
+- Cloud Computing (AWS, Azure, GCP)  
 
-- [Outros pré-requisitos, se aplicável]
+**FERRAMENTAS E TECNOLOGIAS:**  
+- TensorFlow / PyTorch  
+- Scikit-learn  
+- Docker e Kubernetes  
 
-- _Exemplo_:
-  - Lógica de programação
-  - Javascript
+---
 
-## 🛠️ Habilidades e Sub-habilidades que vamos aprender neste conteúdo
+## 📅 ROADMAP DE 90 DIAS  
 
-- [Lista das habilidades principais a serem desenvolvidas]
+**ADAPTADO PARA: 1 hora/semana (foco no essencial, ritmo leve)**  
 
-  - [Subhabilidades relacionadas, se aplicável]
+### MÊS 1 - FUNDAMENTOS  
+**SEMANA 1-2:**  
+- Revisar Python para IA  
+- Entender conceitos básicos de Machine Learning  
 
-- _Exemplo_:
-  - Java
-    - Api Rest
+**SEMANA 3-4:**  
+- Estudar regressão linear e logística  
+- Praticar com datasets simples (Iris, Titanic)  
 
-## 🎯 Objetivos e Resultados Esperados
+### MÊS 2 - PRÁTICA  
+**SEMANA 5-6:**  
+- Introdução a redes neurais com PyTorch  
+- Criar um modelo simples de classificação  
 
-Após a conclusão do curso/projeto, os estudantes estarão aptos a:
+**SEMANA 7-8:**  
+- Explorar CNNs para imagens  
+- Testar transfer learning com modelos pré-treinados  
 
-- [Descrição do que os estudantes serão capazes de fazer]
-- [Projetos ou soluções que os estudantes estarão aptos a construir]
+### MÊS 3 - PORTFÓLIO E PREPARAÇÃO  
+**SEMANA 9-10:**  
+- Desenvolver projeto de portfólio (ver abaixo)  
+- Documentar código e resultados  
 
-<!--START_SECTION:footer-->
-
-<br />
-<br />
-
-<p align="center">
-  <a href="https://www.dio.me/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/footer.png" alt="banner"/>
-  </a>
-</p>
+**SEMANA 11-
