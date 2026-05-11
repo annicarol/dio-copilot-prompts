@@ -1,8 +1,5 @@
-#Projeto IA Mentor de Carreira
+# Projeto IA Mentor de Carreira
 
-Aqui está sua resposta convertida para um arquivo **Markdown (.md)**:
-
-```markdown
 # 📚 Plano de Estudos Personalizado — Engenheiro de Inteligência Artificial
 
 Olá! Recebi suas informações do entrevistador.  
@@ -133,3 +130,5 @@ Conecta diretamente com seu objetivo de crescer na função atual, cobrindo fund
 ✨ Seu plano está pronto!  
 
 Lembre-se: o mais importante é a **constância**, não a velocidade. Com 1 hora por semana, avance devagar mas sempre consistente.  
+
+Quer que eu detalhe mais o **projeto de portfólio** ou o **roteiro de entrevistas**?
